@@ -1,6 +1,14 @@
 # Graduate-School
-Demonstration of projects and homeworks. `Looking to have this updated by January to demonstrate projects for Internship job search... Just cant upload yet before classes are done because of academic policy`
+Demonstration of projects and homework. 
 
-` got here before I updated it? Reach out nikolajhindsbo@gmail.com and I can tell you about it ;) !`
+` Unfortunately academic policy doesn't let me share these projects.. but some brave souls have before `
 
-I have divided my work by topic.
+24-760 Robotic Dynamics Analysis : https://github.com/HongPeize/CMU-24760-Robot-Dynamics-and-Analysis
+
+18-763/14-763: Systems and Tool Chains for AI Engineers: No one was brave enough
+
+24-787 AI and ML For Engineers: https://github.com/ivanwong9290/CMU_24787_MLAI ~ mostly similar to my year.
+
+` Give me an email at NikolajHindsbo@gmail.com and I will happily provide a link to a folder of my stuff though !`
+
+` I am also working on a website soon! ~~~ Stay tuned ~~~~ `

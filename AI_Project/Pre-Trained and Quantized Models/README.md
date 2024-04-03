@@ -4,6 +4,6 @@ Can be found here: https://drive.google.com/drive/folders/1h7_GIg-n-iSDNuHDqSy8h
 
 
 
-ResNet-50, EfficientNet-B0, EfficientNet-B5 main training files. 
+'The folder contains our ResNet-50, EfficientNet-B0, EfficientNet-B5 main training files.'
 
 Then, the quantized files load the best model from training, quantize, and evaluate the test metrics.

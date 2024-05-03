@@ -18,5 +18,4 @@ TinyML
 
 24-787 AI and ML For Engineers: https://github.com/ivanwong9290/CMU_24787_MLAI ~ mostly similar to my year.
 
-also visit
-` https://sites.google.com/view/nikolaj-hindsbo/home `
+also visit https://sites.google.com/view/nikolaj-hindsbo/home

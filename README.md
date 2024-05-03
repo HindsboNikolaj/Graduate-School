@@ -18,8 +18,5 @@ TinyML
 
 24-787 AI and ML For Engineers: https://github.com/ivanwong9290/CMU_24787_MLAI ~ mostly similar to my year.
 
-` this should give you a good idea of the types of projects I have done. `
-
-` Give me an email at NikolajHindsbo@gmail.com and I will happily provide a link to a folder of my stuff though !`
-
-` I am also working on a website soon! This will include recaps of this information. ~~~ Stay tuned ~~~~ `
+also visit
+` https://sites.google.com/view/nikolaj-hindsbo/home  `

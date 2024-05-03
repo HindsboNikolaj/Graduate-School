@@ -13,7 +13,6 @@
 
 
 ## Project Links
-- [Project Repository](https://github.com/HindsboNikolaj/Graduate-School-Projects/tree/main/AI_Project)
 - [TrashNet Dataset](https://github.com/garythung/trashnet/tree/master)
 
 ## Abstract

@@ -1,7 +1,7 @@
 # Graduate-School
 Demonstration of projects and homework. 
 
-` Unfortunately academic policy doesn't let me share the homework/project files.. but some brave souls have before `
+` Unfortunately academic policy doesn't let me share most of what I've done `
 
 24-760 Robotic Dynamics Analysis : https://github.com/HongPeize/CMU-24760-Robot-Dynamics-and-Analysis
 

@@ -1,5 +1,7 @@
 # Deployable Waste Classification
 
+https://sites.google.com/view/nikolaj-hindsbo/projects/waste-classification
+
 ## Contributors
 - `Nikolaj Hindsbo`
   - AI in Mechanical Engineering, Carnegie Mellon University
